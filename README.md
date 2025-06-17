@@ -2,6 +2,10 @@
 
 A stdio-based Model Context Protocol (MCP) server for DataForSEO API.
 
+# Sign up for Data for Seo
+
+https://dataforseo.com/?aff=200885
+
 ## Installation
 
 You can run directly with npx:
